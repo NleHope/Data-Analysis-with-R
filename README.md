@@ -30,11 +30,11 @@ We applied the following analysis and modeling techniques:
   - Random Forest
 
 ## 👥 Team Members
-- Phạm Bá Hoàng Anh – 22280003
-- Nguyễn Minh Đạt – 22280009
-- Lư Xuân Dương – 22280015
-- Nguyễn Đức Hiệp – 22280022
-- **Lê Trọng Nghĩa – 22280059**
+- Phạm Bá Hoàng Anh
+- Nguyễn Minh Đạt
+- Lư Xuân Dương
+- Nguyễn Đức Hiệp
+- **Lê Trọng Nghĩa**
 
 ## ✅ Results & Conclusion
 
